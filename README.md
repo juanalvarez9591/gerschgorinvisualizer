@@ -1,7 +1,8 @@
 # Gerschgorin Circles Visualizer
 
 
-[image (1)](https://github.com/user-attachments/assets/259e1eac-fcc6-44d4-9508-a493e5877274)
+![image (1)](https://github.com/user-attachments/assets/75af44c9-3d53-4c90-b94d-c94b05ff8b46)
+
 
 An interactive tool for visualizing! 
 Gerschgorin's circle theorem and eigenvalue localization in matrices.
